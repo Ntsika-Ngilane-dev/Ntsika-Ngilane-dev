@@ -76,7 +76,7 @@ Even though I couldn’t finish my degree due to financial limitations, I’m de
 
 - 💌 Email: ntsikangilane@gmail.com  
 - 📱 WhatsApp: [+27 816 745 941](https://wa.me/27816745941)
-- 🌐 [Portfolio – Coming Soon]()
+- 🌐 [Portfolio](https://github.com/Ntsika-Ngilane-dev)
 
 > “I may not have a degree (yet), but I’ve got the grind, curiosity, and commitment to grow — one project at a time.”
 
